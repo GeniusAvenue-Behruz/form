@@ -1,0 +1,21 @@
+{
+  "t-shirt": {"price": 5.00, "image": "/images/t-shirt.png"},
+  "jumper": {"price": 10.00, "image": "/images/jumper.png"},
+  "shoes": {"price": 15.00, "image": "/images/shoes.png"},
+  "dress": {"price": 12.00, "image": "/images/dress.png"},
+  "suit": {"price": 20.00, "image": "/images/suit.png"},
+  "coat": {"price": 18.00, "image": "/images/coat.png"},
+  "skirt": {"price": 10.00, "image": "/images/skirt.png"},
+  "trousers": {"price": 7.50, "image": "/images/trousers.png"},
+  "scarf": {"price": 4.00, "image": "/images/scarf.png"},
+  "tie": {"price": 3.50, "image": "/images/tie.png"},
+  "gloves": {"price": 3.00, "image": "/images/gloves.png"},
+  "sweater": {"price": 9.00, "image": "/images/sweater.png"},
+  "jacket": {"price": 14.00, "image": "/images/jacket.png"},
+  "hoodie": {"price": 10.00, "image": "/images/hoodie.png"},
+  "shorts": {"price": 6.00, "image": "/images/shorts.png"},
+  "vest": {"price": 5.50, "image": "/images/vest.png"},
+  "cap": {"price": 4.00, "image": "/images/cap.png"},
+  "handkerchief": {"price": 2.00, "image": "/images/handkerchief.png"},
+  "socks": {"price": 1.50, "image": "/images/socks.png"}
+}
